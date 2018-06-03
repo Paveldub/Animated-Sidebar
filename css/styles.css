@@ -63,10 +63,12 @@ a {
 
 .toggle-btn--active .toggle-class-top {
     opacity: 0;
+    animation-delay: .3s;
 }
 
 .toggle-btn--active .toggle-class-bottom {
     opacity: 0;
+    animation-delay: .3s;
 }
 
 
